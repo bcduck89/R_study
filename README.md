@@ -7,3 +7,4 @@
 - R 실행
     - install.packages('devtools')
     - devtools::install_github('IRkernel/IRkernel')
+    - remotes::install_github('r-lib/pillar') (R kernel이 쥬피터노트북에서 안돌아갈 때, 설치해보기)
